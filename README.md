@@ -1,2 +1,5 @@
 # solid-octo-enigma
-simple javaScript project
+
+## A Simple JavaScript Project - Quiz Game
+
+
