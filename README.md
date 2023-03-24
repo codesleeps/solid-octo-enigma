@@ -1,6 +1,6 @@
 # solid-octo-enigma
 
-## A Simple JavaScript Project - Quiz Game
+## A Simple JavaScript Project - Coding Quiz Game
 
 
 
