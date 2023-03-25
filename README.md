@@ -38,11 +38,11 @@ Added 5 questions
 
 Created: 
 
-  - js directory, 
-  - app.js,  
-  - questions.js,  
+  - js directory
+  - app.js  
+  - questions.js  
   - logic.js  
-  - using terminal commands
+  - Using terminal commands
 
 ![Screenshot 2023-03-25 at 16 41 08](https://user-images.githubusercontent.com/125808990/227730383-42a4dc0e-3c91-4bc0-9675-a62f339c3d7a.png)
 
