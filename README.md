@@ -4,7 +4,7 @@
 
 ### Game Operation
 
--[x] Game has 5 multiple choice questions  ✅
+- [x] Game has 5 multiple choice questions  ✅
 
 
 
