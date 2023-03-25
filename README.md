@@ -16,7 +16,7 @@
 
 - [x] Game logs high scores ✅
 
-- [x] Game logs intials of players high score ✅
+- [x] Game logs intials of the players high score ✅
 
 
 ### Screenshots
