@@ -25,7 +25,7 @@ Added 5 questions
 
 ![Screenshot 2023-03-25 at 15 53 30](https://user-images.githubusercontent.com/125808990/227728065-4d8d8297-6f1d-4c32-b8ae-86d21444ec5a.png)
 
-Created: app.js, questions.js, logic.js using terminal commands
+Created: js directory  app.js, questions.js, logic.js using terminal commands
 
 ![Screenshot 2023-03-25 at 16 41 08](https://user-images.githubusercontent.com/125808990/227730383-42a4dc0e-3c91-4bc0-9675-a62f339c3d7a.png)
 
