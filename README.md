@@ -19,6 +19,16 @@
 - [x] Game logs intials of the players high score ✅
 
 
+### Purpose
+- [x] Utilise Javascript:
+  - Methods
+  - Objects
+  - Dot Notation
+  - Arrays
+  - Variables
+  - Local Storage
+
+
 ### Screenshots
 
 Added 5 questions
