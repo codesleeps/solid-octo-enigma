@@ -40,3 +40,11 @@ Added 5 questions
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
+
+## Additional resources
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [React Docs](https://reactjs.org/docs/getting-started.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+
