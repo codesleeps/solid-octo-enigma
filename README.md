@@ -10,9 +10,9 @@
 
 - [x] Game has score system for correct/incorrect answers ✅
  
-- [x] A message tells them if the answer was correct/incorrect
+- [x] A message tells them if the answer was correct/incorrect ✅
 
-- [x] If the answer was incorrect, 10 seconds is deducted from the timer
+- [x] If the answer was incorrect, 10 seconds is deducted from the timer ✅
 
 - [x] Game logs high scores ✅
 
