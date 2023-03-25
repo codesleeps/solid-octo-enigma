@@ -23,6 +23,7 @@
 - [x] Utilise Javascript:
   - Methods
   - Objects
+  - Nesting
   - Dot Notation
   - Arrays
   - Variables
