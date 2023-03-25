@@ -9,6 +9,9 @@
 - [x] Game has set time duration to answer questions (90sec) ✅
 
 - [x] Game has score system for correct/incorrect answers ✅
+ 
+      - A message tells them if the answer was correct/incorrect
+      - If the answer was incorrect, 10 seconds is deducted from the timer
 
 - [x] Game logs high scores ✅
 
