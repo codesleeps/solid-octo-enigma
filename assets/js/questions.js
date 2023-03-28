@@ -1,6 +1,11 @@
-// Coding Quiz Game Code
-// Define an array of quiz questions and answers
-// 5 multiple choice questions
+//Questions
+class Question {
+	constructor(question, choices, indexOfCorrectChoice) {
+		this.question = question;
+		this.choices = choices;
+		this.indexOfCorrectChoice = indexOfCorrectChoice;
+	}
+}
 const question1 = new Question(
 	'What does API stand for?',
 	[
@@ -52,11 +57,10 @@ const question5 = new Question(
 	3
 );
 
-
 const questionList = [question1, question2, question3, question4, question5];
 
 let currentQuestion = 0;
 
 let totalTime = 90;
 let totalTimeInterval;
-let choiceStatusTimeout; 
+let choiceStatusTimeout;
