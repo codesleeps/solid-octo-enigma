@@ -14,9 +14,22 @@
 
 - [x] If the answer was incorrect, 10 seconds is deducted from the timer ✅
 
+- [x] Audio sounds for correct or incorrect answers 
+
 - [x] Game logs high scores ✅
 
 - [x] Game logs intials of the players high score ✅
+
+
+### Purpose
+- [x] Utilise Javascript:
+  - Methods
+  - Objects
+  - Nesting
+  - Dot Notation
+  - Arrays
+  - Variables
+  - Local Storage
 
 
 ### Screenshots
@@ -25,7 +38,13 @@ Added 5 questions
 
 ![Screenshot 2023-03-25 at 15 53 30](https://user-images.githubusercontent.com/125808990/227728065-4d8d8297-6f1d-4c32-b8ae-86d21444ec5a.png)
 
-Created: js directory  app.js, questions.js, logic.js using terminal commands
+Created: 
+
+  - js directory
+  - app.js  
+  - questions.js  
+  - logic.js  
+  - Using terminal commands
 
 ![Screenshot 2023-03-25 at 16 41 08](https://user-images.githubusercontent.com/125808990/227730383-42a4dc0e-3c91-4bc0-9675-a62f339c3d7a.png)
 
