@@ -16,8 +16,6 @@
 
 - [x] If the answer was incorrect, 10 seconds is deducted from the timer ✅
 
-- [x] Audio sounds for correct or incorrect answers 
-
 - [x] Game logs high scores ✅
 
 - [x] Game logs intials of the players high score ✅
