@@ -2,7 +2,7 @@
 
 ## A Simple JavaScript Project - Coding Quiz Game
 
- https://codesleeps.github.io/solid-octo-enigma/
+ [App](https://codesleeps.github.io/solid-octo-enigma/)
 
 ### Game Operation
 
