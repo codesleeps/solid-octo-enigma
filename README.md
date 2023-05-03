@@ -6,6 +6,8 @@
  
 ![Screenshot 2023-05-03 at 13 45 54](https://user-images.githubusercontent.com/125808990/235920289-58ce64bd-c9e4-48c7-8070-d8853a6c9bc5.png)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
 ### Game Operation
 
 - [x] Game has 5 multiple choice questions ✅
@@ -22,6 +24,7 @@
 
 - [x] Game logs intials of the players high score ✅
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 ### Purpose
 - [x] Utilise Javascript:
@@ -33,7 +36,7 @@
   - Variables
   - Local Storage
 
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 ### Screenshots
 
 [Array of questions](https://user-images.githubusercontent.com/125808990/227728065-4d8d8297-6f1d-4c32-b8ae-86d21444ec5a.png)
@@ -41,6 +44,8 @@
 [Questions](https://user-images.githubusercontent.com/125808990/235920481-69573cb6-bed7-4517-b219-08379de08097.png)
 
 [High Scores](https://user-images.githubusercontent.com/125808990/235920593-c52520af-648d-4a58-a6be-cbbe4d1aeb1e.png)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 Created: 
 
@@ -52,12 +57,7 @@ Created:
 
 [Terminal output](https://user-images.githubusercontent.com/125808990/227730383-42a4dc0e-3c91-4bc0-9675-a62f339c3d7a.png)
 
-
-
-
-
-
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
 ## VS Code - Extensions
 
@@ -67,7 +67,7 @@ Created:
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 ## Additional resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
