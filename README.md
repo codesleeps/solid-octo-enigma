@@ -3,6 +3,8 @@
 ## A Simple JavaScript Project - Coding Quiz Game
 
  [App](https://codesleeps.github.io/solid-octo-enigma/)
+ 
+![Screenshot 2023-05-03 at 13 45 54](https://user-images.githubusercontent.com/125808990/235920289-58ce64bd-c9e4-48c7-8070-d8853a6c9bc5.png)
 
 ### Game Operation
 
@@ -34,9 +36,11 @@
 
 ### Screenshots
 
-Added 5 questions
-
 [Array of questions](https://user-images.githubusercontent.com/125808990/227728065-4d8d8297-6f1d-4c32-b8ae-86d21444ec5a.png)
+
+[Questions](https://user-images.githubusercontent.com/125808990/235920481-69573cb6-bed7-4517-b219-08379de08097.png)
+
+[High Scores](https://user-images.githubusercontent.com/125808990/235920593-c52520af-648d-4a58-a6be-cbbe4d1aeb1e.png)
 
 Created: 
 
