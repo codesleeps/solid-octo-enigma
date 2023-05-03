@@ -4,6 +4,8 @@
 
  [App](https://codesleeps.github.io/solid-octo-enigma/)
  
+ [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
 ![Screenshot 2023-05-03 at 13 45 54](https://user-images.githubusercontent.com/125808990/235920289-58ce64bd-c9e4-48c7-8070-d8853a6c9bc5.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
