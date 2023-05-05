@@ -2,6 +2,8 @@
 
 ## A Simple JavaScript Project - Coding Quiz Game
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
  [App](https://codesleeps.github.io/solid-octo-enigma/)
  
  [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
