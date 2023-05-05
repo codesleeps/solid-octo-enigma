@@ -55,7 +55,7 @@
 
 [Mobile View Questions](https://user-images.githubusercontent.com/125808990/235925206-dfd62efc-f53b-4233-b93a-ed50bc71be1a.png)
 
-![Mobile View High Scores](https://user-images.githubusercontent.com/125808990/235925503-e7aece30-ff23-4a38-8689-67fe385a68d4.png)
+[Mobile View High Scores](https://user-images.githubusercontent.com/125808990/235925503-e7aece30-ff23-4a38-8689-67fe385a68d4.png)
 
 
 Created: 
