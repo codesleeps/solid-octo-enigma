@@ -7,54 +7,54 @@ class Question {
 	}
 }
 const question1 = new Question(
-	'What does API stand for?',
+	'What is the primary psychoactive compound in cannabis?',
 	[
-		'Application Programmable Interface',
-		'Application Programming Interface',
-		'Application Programs Interface',
-		'Application Programmable Interface',
+		'Cannabidiol (CBD).',
+		'Cannabinol (CBN).',
+		'Tetrahydrocannabinol (THC).',
+		'Cannabigero (CBG).',
 	],
 	2
 );
 const question2 = new Question(
-	'What does the pop() function do?',
+	'What are the two main species of cannabis?',
 	[
-		'removes the first element from an array and returns that element.',
-		'removes the last variable from an array and returns that element.',
-		'Removes the last element from an array and returns that element.',
-		'removes the first variable from an array and returns that element.',
+		'Skunk',
+		'Cheese',
+		'Cannabis sativa and Cannabis indica.',
+		'Northern Lights',
 	],
 	2
 );
 const question3 = new Question(
-	'What does the map() function do?',
+	' In which country was the first medical cannabis program established?',
 	[
-		'The map() method creates a new array populated with the results of calling a provided function on every variable in the calling array.',
-		'The map() method creates a new variable populated with the results of calling a provided function on every element in the calling array.',
-		'The map() method creates a new array populated with the results of calling a provided function on every element in the calling variable.',
-		'The map() method creates a new array populated with the results of calling a provided function on every element in the calling array.',
+		'U.K.',
+		'Netherlands',
+		'Israel',
+		'U.S.A.',
 	],
-	3
+	1
 );
 const question4 = new Question(
-	'What does CSS stand for?',
+	'What is the process called for removing cannabiniods from cannabis plants?',
 	[
-		'Cascading Styles Sheet',
-		'Casscading Style Sheets',
-		'Cascading Style Sheets',
-		'Cascading Styles Sheets',
-	],
-	2
-);
-const question5 = new Question(
-	'What does the acronym SQL stand for?',
-	[
-		'Structured Query Line',
-		'Structured Query Linear',
-		'Structured Query Label',
-		'Structured Query Language',
+		'Decarbing',
+		'Purging',
+		'Filteration',
+		'Extraction',
 	],
 	3
+);
+const question5 = new Question(
+	'What does the acronym GG4 stand for?',
+	[
+		'Grow Greens 4',
+		'Garden Grow 4',
+		'Guerilla Glue 4',
+		'Great Ganga 4',
+	],
+	2
 );
 
 const questionList = [question1, question2, question3, question4, question5];
