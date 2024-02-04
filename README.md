@@ -1,6 +1,6 @@
 # solid-octo-enigma
 
-## A Simple JavaScript Project - Coding Quiz Game
+## JavaScript Quiz Game
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
